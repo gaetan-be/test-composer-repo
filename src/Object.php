@@ -5,3 +5,4 @@ class Object{
 	}
 }
 toto
+toto
