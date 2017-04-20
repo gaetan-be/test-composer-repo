@@ -1,0 +1,6 @@
+<?
+class Object{
+	public function hello(){
+		echo "hello";
+	}
+}

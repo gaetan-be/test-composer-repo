@@ -1,0 +1,6 @@
+{
+    "name": "gaetan-be/test-composer-repo",
+    "description": "Test composer package",
+    "type": "library",
+    "require": {}
+}
