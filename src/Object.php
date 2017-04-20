@@ -4,3 +4,4 @@ class Object{
 		echo "hello";
 	}
 }
+toto
