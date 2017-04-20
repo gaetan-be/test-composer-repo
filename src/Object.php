@@ -7,3 +7,4 @@ class Object{
 toto
 toto
 toto
+toto
